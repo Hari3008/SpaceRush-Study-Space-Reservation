@@ -201,6 +201,10 @@ go run burst_test.go
 | `min_capacity` | Minimum tasks for auto-scaling | `2` |
 | `max_capacity` | Maximum tasks for auto-scaling | `10` |
 
+## Results
+
+The experimental results are present in the assets folder [ExperimentsWriteup.pdf](https://github.com/Hari3008/Robin-Study-Space-Reservation/blob/main/assets/ExperimentsWriteup.pdf)
+
 ## Monitoring
 
 ### CloudWatch Metrics
